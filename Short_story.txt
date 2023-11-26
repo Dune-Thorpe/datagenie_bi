@@ -8,3 +8,6 @@ my skills set and my exposure and temperament, I settled on a career change. I w
 Accountancy (where we largely report on the state of affairs, give advice on corrective action... where
 creativity is frowned on) to Software development, where I was lead to believe (mainly by social media 
 influencers) that I could build stuff...This is my journey on the Data Analyst phase.
+
+This repository will mainly focus on coding in python as the main programming language with a focus on creating
+microsoft power BI apps for data analytics.
