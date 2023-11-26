@@ -1,0 +1,10 @@
+The main purpose of this repository is to document my journey as I undertake a mid-life career change.
+I'm a Certified Public Accountant and for a period of close to 20 years I was employed by one of the 
+leading Insurance companies in East Africa as an accountant. In early 2020, at the start of the COVID-19 
+pandemic,I was laid off (not necessarily because of the pandemic, but maily because the company was to be
+restructure, with a view to on boarding new investors - and it had to trim the staff count for a perfect 
+fit). After weighing the various options at my disporsal then, and taking stock of my finances, my obligations,
+my skills set and my exposure and temperament, I settled on a career change. I was to gravitate from 
+Accountancy (where we largely report on the state of affairs, give advice on corrective action... where
+creativity is frowned on) to Software development, where I was lead to believe (mainly by social media 
+influencers) that I could build stuff...This is my journey on the Data Analyst phase.
